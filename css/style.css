@@ -1,11 +1,12 @@
-
+/* {
+outline 1px solid orange;}*/
 body {
   margin: 0;
   padding: 0;
     
     font-size: 14px;
     line-height: 20px;
-    font-family: verdana sans-serif;
+    font-family: verdana;
     color: #000000;
 }
 .site-header {
@@ -261,7 +262,7 @@ width: 1040px;
     width: 10px;
     height: 10px;
     position: absolute;
-    left: -20px;
+      left: -15px;
     top 30px;
     background-color: #ffcb06;
     border-radius: 50%;
